@@ -1,0 +1,6 @@
+= crs517 ex61 via annotations
+
+$ find . -name \*.xml
+$ # No XML files here!
+
+Done with annotations only.
