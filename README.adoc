@@ -9,3 +9,5 @@ Put together with:
 * The original Course 517 version of Ex6.1 (as of 2019).
 * Help from  https://websystique.com/springmvc/spring-4-mvc-helloworld-tutorial-annotation-javaconfig-full-example[].
 * Help from Sharon Doyle.
+
+Converted to use Maven (mainly so I can use my existing Wildfly deploy setup).
